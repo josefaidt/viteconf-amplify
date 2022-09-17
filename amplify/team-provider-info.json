@@ -1,0 +1,15 @@
+{
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-viteconf-main-170607-authRole",
+      "UnauthRoleArn": "arn:aws:iam::443815547067:role/amplify-viteconf-main-170607-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::443815547067:role/amplify-viteconf-main-170607-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-viteconf-main-170607-deployment",
+      "UnauthRoleName": "amplify-viteconf-main-170607-unauthRole",
+      "StackName": "amplify-viteconf-main-170607",
+      "StackId": "arn:aws:cloudformation:us-east-1:443815547067:stack/amplify-viteconf-main-170607/88423d20-361c-11ed-af19-0e2d356358b9",
+      "AmplifyAppId": "d1a27z7fokckf8"
+    }
+  }
+}
