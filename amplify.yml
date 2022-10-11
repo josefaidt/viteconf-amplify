@@ -1,14 +1,6 @@
 version: 1
 backend:
   phases:
-    # preBuild:
-    #   commands:
-    #     - curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.rpm.sh | bash
-    #     - yum -y install git-lfs
-    #     - git lfs fetch
-    #     - git lfs checkout
-    #     - cd bin; gzip -d amplify.gz; cd -
-    #     - PATH=$(pwd)/bin:$PATH
     build:
       commands:
         - '# Execute Amplify CLI with the helper script'
