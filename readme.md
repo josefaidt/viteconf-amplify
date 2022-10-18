@@ -1,6 +1,6 @@
 # ViteConf - AWS Amplify
 
-Demo application for [ViteConf](https://viteconf.org/schedule/vite__aws_amplify)
+[Demo application](https://main.d1lrcxsqw5t65r.amplifyapp.com/) for [ViteConf](https://viteconf.org/schedule/vite__aws_amplify)
 
 1. `gh repo fork josefaidt/viteconf-amplify`
 2. `pnpm add --global @aws-amplify/cli` install the AWS Amplify CLI
